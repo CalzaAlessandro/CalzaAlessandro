@@ -28,6 +28,11 @@ Transferable Martini 3 coarse-grained models for linear PFAS, including force-fi
 *Under active development*  
 General-purpose toolchain for explicit-connectivity graphene oxide generation, QM reference datasets, and RESP/force-field parameterization workflows.
 
+### [Protein Cationization (`cationize-protein`)](https://github.com/CalzaAlessandro/cationize-protein)
+
+*Under active development*  
+Progressive electrostatic-guided protein carboxyl amidation, steric relaxation, and automated parameterization toolchain for Amber, OpenMM and GROMACS.
+
 ## Links
 
 [ORCID](https://orcid.org/0009-0002-3700-3240) ·
