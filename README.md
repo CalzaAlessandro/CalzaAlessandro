@@ -21,6 +21,13 @@ Transferable Martini 3 coarse-grained models for linear PFAS, including force-fi
 *Journal of Chemical Theory and Computation* (2026)  
 [Models and GROMACS simulation files](https://github.com/CalzaAlessandro/martini-linear-pfas)
 
+## Ongoing projects & development
+
+### [GO Builder (`go-surface-workbench`)](https://github.com/CalzaAlessandro/go-surface-workbench)
+
+*Under active development*  
+General-purpose toolchain for explicit-connectivity graphene oxide generation, QM reference datasets, and RESP/force-field parameterization workflows.
+
 ## Links
 
 [ORCID](https://orcid.org/0009-0002-3700-3240) ·
