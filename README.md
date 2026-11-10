@@ -35,7 +35,7 @@ and volume tables.
 
 ## Software in development
 
-### [GO Builder](https://github.com/CalzaAlessandro/go-surface-workbench)
+### [GO Workbench](https://github.com/CalzaAlessandro/go-surface-workbench)
 
 Graphene oxide generation with explicit connectivity, covalent
 functionalization, and QM reference and force-field parameterization workflows.
