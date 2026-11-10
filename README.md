@@ -1,40 +1,49 @@
 # Alessandro Calza
 
-Computational chemist working on molecular modelling and biomolecular simulations at the University of Bologna.
+Computational chemist at the **University of Bologna**, working on molecular
+modelling and biomolecular simulations.
 
-My research focuses on atomistic and coarse-grained molecular dynamics, multiscale modelling, molecular docking and virtual screening to investigate molecular interactions in biological and nanomaterial systems.
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-2457A7?style=flat)](https://orcid.org/0009-0002-3700-3240)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-2457A7?style=flat)](https://scholar.google.com/citations?user=NgludmYAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-2457A7?style=flat)](https://www.linkedin.com/in/alessandro-calza97/)
 
-## Research interests
+My research combines atomistic and coarse-grained molecular dynamics,
+multiscale modelling, molecular docking and virtual screening to investigate
+molecular interactions in biological and nanomaterial systems, supported by
+high-performance computing workflows.
 
-- Molecular dynamics
-- Multiscale & coarse-grained modelling
-- Computational biophysics
-- Molecular docking & virtual screening
-- High-performance computing
+## Models and structural data
 
-## Featured work
+### [Martini 3 models for linear PFAS](https://github.com/CalzaAlessandro/martini-linear-pfas)
 
-### [Martini 3 Coarse-Grain Model for Linear Perfluoroalkyl Substances](https://doi.org/10.1021/acs.jctc.6c00250)
+Transferable coarse-grained models for linear perfluoroalkyl substances,
+with force-field parametrization, validation and GROMACS simulation files.
 
-Transferable Martini 3 coarse-grained models for linear PFAS, including force-field parametrization, validation and molecular dynamics applications.
+Published in *Journal of Chemical Theory and Computation* (2026).  
+[Read the article](https://doi.org/10.1021/acs.jctc.6c00250) ·
+[Browse the model library](https://github.com/CalzaAlessandro/martini-linear-pfas/blob/main/LIBRARY.md)
 
-*Journal of Chemical Theory and Computation* (2026)  
-[Models and GROMACS simulation files](https://github.com/CalzaAlessandro/martini-linear-pfas)
+### [Native HSA physiological pockets](https://github.com/CalzaAlessandro/hsa-native-pockets)
 
-## Ongoing projects & development
+Atomic structures and geometric models of eleven physiological regions in
+native human serum albumin, sampled in three independent 1 µs simulations.
+Includes whole-protein and pocket-specific representatives, cavity geometries
+and volume tables.
 
-### [GO Builder (`go-surface-workbench`)](https://github.com/CalzaAlessandro/go-surface-workbench)
+[Browse the collection](https://github.com/CalzaAlessandro/hsa-native-pockets) ·
+[Read the methods](https://github.com/CalzaAlessandro/hsa-native-pockets/blob/main/tables/README.md)
 
-*Under active development*  
-General-purpose toolchain for explicit-connectivity graphene oxide generation, QM reference datasets, and RESP/force-field parameterization workflows.
+## Software in development
 
-### [Protein Cationization (`cationize-protein`)](https://github.com/CalzaAlessandro/cationize-protein)
+### [GO Builder](https://github.com/CalzaAlessandro/go-surface-workbench)
 
-*Under active development*  
-Progressive electrostatic-guided protein carboxyl amidation, steric relaxation, and automated parameterization toolchain for Amber, OpenMM and GROMACS.
+Graphene oxide generation with explicit connectivity, covalent
+functionalization, and QM reference and force-field parameterization workflows.
 
-## Links
+### [cationize-protein](https://github.com/CalzaAlessandro/cationize-protein)
 
-[ORCID](https://orcid.org/0009-0002-3700-3240) ·
-[Google Scholar](https://scholar.google.com/citations?user=NgludmYAAAAJ) ·
-[LinkedIn](https://www.linkedin.com/in/alessandro-calza97/)
+Progressive electrostatic-guided protein carboxyl amidation, steric relaxation
+and parameter export for Amber, OpenMM and GROMACS.
+
+Both tools are under active scientific development. Their READMEs describe
+current capabilities, validation status and preliminary parameterization work.
