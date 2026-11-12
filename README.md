@@ -1,49 +1,61 @@
 # Alessandro Calza
 
+![Molecular modelling: a protein binding pocket transitioning from a transparent network to a molecular surface, within a liquid bubble](assets/profile-banner.png)
+
 Computational chemist at the **University of Bologna**, working on molecular
-modelling and biomolecular simulations.
+recognition and simulations for medicine and the environment.
 
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-2457A7?style=flat)](https://orcid.org/0009-0002-3700-3240)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-2457A7?style=flat)](https://scholar.google.com/citations?user=NgludmYAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-2457A7?style=flat)](https://www.linkedin.com/in/alessandro-calza97/)
 
-My research combines atomistic and coarse-grained molecular dynamics,
-multiscale modelling, molecular docking and virtual screening to investigate
-molecular interactions in biological and nanomaterial systems, supported by
-high-performance computing workflows.
+I study protein–ligand and supramolecular host–guest complexes, membranes
+and nanomaterial interfaces. Applications include candidate drug-delivery
+systems, protein adsorption and contaminant binding on graphene oxide for
+water remediation.
+
+I use atomistic and coarse-grained molecular dynamics, docking and virtual
+screening. My work includes force-field parameterization, molecular libraries,
+structural and trajectory analysis, and simulation workflows using Python,
+Bash and high-performance computing (HPC). Where reference data are available,
+I compare models and protocols with experimental measurements or crystallographic structures.
 
 ## Models and structural data
-
-### [Martini 3 models for linear PFAS](https://github.com/CalzaAlessandro/martini-linear-pfas)
-
-Transferable coarse-grained models for linear perfluoroalkyl substances,
-with force-field parametrization, validation and GROMACS simulation files.
-
-Published in *Journal of Chemical Theory and Computation* (2026).  
-[Read the article](https://doi.org/10.1021/acs.jctc.6c00250) ·
-[Browse the model library](https://github.com/CalzaAlessandro/martini-linear-pfas/blob/main/LIBRARY.md)
 
 ### [Native HSA physiological pockets](https://github.com/CalzaAlessandro/hsa-native-pockets)
 
 Atomic structures and geometric models of eleven physiological regions in
 native human serum albumin, sampled in three independent 1 µs simulations.
-Includes whole-protein and pocket-specific representatives, cavity geometries
-and volume tables.
+Includes protein and pocket representatives, cavity geometries and volume tables.
 
-[Browse the collection](https://github.com/CalzaAlessandro/hsa-native-pockets) ·
-[Read the methods](https://github.com/CalzaAlessandro/hsa-native-pockets/blob/main/tables/README.md)
+[Methods and results](https://github.com/CalzaAlessandro/hsa-native-pockets/blob/main/tables/README.md)
+
+### [Martini 3 models for linear PFAS](https://github.com/CalzaAlessandro/martini-linear-pfas)
+
+Coarse-grained models for linear perfluoroalkyl substances, with
+parameterization, validation and GROMACS simulation files.
+
+Published in *Journal of Chemical Theory and Computation* (2026).  
+[Article](https://doi.org/10.1021/acs.jctc.6c00250) ·
+[Model library](https://github.com/CalzaAlessandro/martini-linear-pfas/blob/main/LIBRARY.md)
 
 ## Software in development
 
 ### [GO Workbench](https://github.com/CalzaAlessandro/go-surface-workbench)
 
-Graphene oxide generation with explicit connectivity, covalent
-functionalization, and QM reference and force-field parameterization workflows.
+Build and functionalize graphene oxide sheets with explicit connectivity.
+Includes QM reference and force-field parameterization workflows.
 
 ### [cationize-protein](https://github.com/CalzaAlessandro/cationize-protein)
 
-Progressive electrostatic-guided protein carboxyl amidation, steric relaxation
-and parameter export for Amber, OpenMM and GROMACS.
+Build progressively cationized proteins through electrostatics-guided carboxyl
+amidation, relax their structures and export parameters for Amber, OpenMM and GROMACS.
 
-Both tools are under active scientific development. Their READMEs describe
-current capabilities, validation status and preliminary parameterization work.
+Both tools are in development. See their READMEs for validation status;
+new parameters, charges and topologies are preliminary.
+
+## Interests
+
+I’m interested in transferring modelling methods between biological and
+materials systems, molecular databases, fragrance chemistry and formulations,
+and AI/ML and agentic workflows in molecular research.
