@@ -9,16 +9,19 @@ recognition and simulations for medicine and the environment.
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-2457A7?style=flat)](https://scholar.google.com/citations?user=NgludmYAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-2457A7?style=flat)](https://www.linkedin.com/in/alessandro-calza97/)
 
-I study protein–ligand and supramolecular host–guest complexes, membranes
-and nanomaterial interfaces. Applications include candidate drug-delivery
-systems, protein adsorption and contaminant binding on graphene oxide for
+I study protein–ligand and supramolecular host–guest interactions, membranes,
+and nanomaterial interfaces. My projects include candidate drug-delivery
+systems, protein adsorption, and contaminant binding to graphene oxide for
 water remediation.
 
-I use atomistic and coarse-grained molecular dynamics, docking and virtual
-screening. My work includes force-field parameterization, molecular libraries,
-structural and trajectory analysis, and simulation workflows using Python,
-Bash and high-performance computing (HPC). Where reference data are available,
-I compare models and protocols with experimental measurements or crystallographic structures.
+I use atomistic and coarse-grained molecular dynamics, docking, and virtual
+screening. I develop force-field parameters and molecular libraries, analyze
+structures and simulation trajectories, and build simulation workflows in
+Python and Bash for high-performance computing (HPC) systems.
+
+My interests include fragrance chemistry and formulations, molecular databases,
+AI/ML and agentic workflows for molecular research, and the transfer of
+modelling methods between biological and materials systems.
 
 ## Models and structural data
 
@@ -53,9 +56,3 @@ amidation, relax their structures and export parameters for Amber, OpenMM and GR
 
 Both tools are in development. See their READMEs for validation status;
 new parameters, charges and topologies are preliminary.
-
-## Interests
-
-I’m interested in transferring modelling methods between biological and
-materials systems, molecular databases, fragrance chemistry and formulations,
-and AI/ML and agentic workflows in molecular research.
