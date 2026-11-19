@@ -1,6 +1,6 @@
 # Alessandro Calza
 
-![Molecular modelling: a protein binding pocket transitioning from a transparent network to a molecular surface, within a liquid bubble](assets/profile-banner.png)
+![Molecular modeling: a protein binding pocket transitioning from a transparent network to a molecular surface, within a liquid bubble](assets/profile-banner.webp)
 
 Computational chemist at the **University of Bologna**, working on molecular
 recognition and simulations for medicine and the environment.
@@ -21,17 +21,9 @@ Python and Bash for high-performance computing (HPC) systems.
 
 My interests include fragrance chemistry and formulations, molecular databases,
 AI/ML and agentic workflows for molecular research, and the transfer of
-modelling methods between biological and materials systems.
+modeling methods between biological and materials systems.
 
 ## Models and structural data
-
-### [Native HSA physiological pockets](https://github.com/CalzaAlessandro/hsa-native-pockets)
-
-Atomic structures and geometric models of eleven physiological regions in
-native human serum albumin, sampled in three independent 1 µs simulations.
-Includes protein and pocket representatives, cavity geometries and volume tables.
-
-[Methods and results](https://github.com/CalzaAlessandro/hsa-native-pockets/blob/main/tables/README.md)
 
 ### [Martini 3 models for linear PFAS](https://github.com/CalzaAlessandro/martini-linear-pfas)
 
@@ -42,17 +34,25 @@ Published in *Journal of Chemical Theory and Computation* (2026).
 [Article](https://doi.org/10.1021/acs.jctc.6c00250) ·
 [Model library](https://github.com/CalzaAlessandro/martini-linear-pfas/blob/main/LIBRARY.md)
 
+### [Native HSA physiological pockets](https://github.com/CalzaAlessandro/hsa-native-pockets)
+
+Atomic structures and geometric models of eleven physiological regions in
+native human serum albumin, sampled in three independent 1 µs simulations.
+Includes protein and pocket representatives, cavity geometries and volume tables.
+
+[Methods and results](https://github.com/CalzaAlessandro/hsa-native-pockets/blob/main/tables/README.md)
+
 ## Software in development
-
-### [GO Workbench](https://github.com/CalzaAlessandro/go-surface-workbench)
-
-Build and functionalize graphene oxide sheets with explicit connectivity.
-Includes QM reference and force-field parameterization workflows.
 
 ### [cationize-protein](https://github.com/CalzaAlessandro/cationize-protein)
 
 Build progressively cationized proteins through electrostatics-guided carboxyl
 amidation, relax their structures and export parameters for Amber, OpenMM and GROMACS.
+
+### [GO Workbench](https://github.com/CalzaAlessandro/go-surface-workbench)
+
+Build and functionalize graphene oxide sheets with explicit connectivity.
+Includes QM reference and force-field parameterization workflows.
 
 Both tools are in development. See their READMEs for validation status;
 new parameters, charges and topologies are preliminary.
